@@ -16,17 +16,6 @@
 - ⚡ Fun fact: I love boxing and video games
 
 ### Languages and Tools:
-<!-- <p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
-    <a href="https://graphql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/graphql.png"/></a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
-    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/></a>
-</p> -->
-
 <div style="display: inline_block">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -35,9 +24,11 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="" heigth="23" width="35" src="https://img.icons8.com/color/48/000000/graphql.png"/>
   <img align="center" alt="" heigth="25" width="40" src="https://img.icons8.com/color/48/000000/git.png"/>
+  
 </div>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<img alt="Happy cutman stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happy-cutman&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"/>
+
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/nikita-silkin-052505179/"><img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/></a>
