@@ -1,7 +1,7 @@
 <p align="center">
 <!--   <img width="500px" height="375px" src="https://s10.gifyu.com/images/output-onlinegiftools7913c0421deaa3cb.gif"/> -->
  
-  <img width="300px" height="300px" src="https://media3.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.webp?cid=ecf05e472qrk1xg4ipbxqttq27qtj75vwnyxsj0e42fbt7an&rid=giphy.webp&ct=g"/>
+  <img width="250px" height="250px" src="https://media3.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.webp?cid=ecf05e472qrk1xg4ipbxqttq27qtj75vwnyxsj0e42fbt7an&rid=giphy.webp&ct=g"/>
 </p>
 
 <!-- <h1 align="center"><img width="500px" height="375px" src="https://media1.giphy.com/media/YQitE4YNQNahy/200w.webp?cid=ecf05e474jf7pqtt4604u95eifxu8zq0pqlqfbv0s1wrw6nb&rid=200w.webp&ct=g"/></h1> -->
