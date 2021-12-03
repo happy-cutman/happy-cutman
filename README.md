@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500px" height="375px" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xw9phvez5z6b6wm7a5z3t1b3uwth7wa7yz64jbpx&rid=giphy.gif&ct=g"/></p>
+  <img width="500px" height="375px" src="https://s10.gifyu.com/images/output-onlinegiftools7913c0421deaa3cb.gif"/></p>
 
 <!-- https://giphy.com/gifs/hackernoon-hacker-noon-random-pixels-dxn6fRlTIShoeBr69N -->
 
