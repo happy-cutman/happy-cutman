@@ -8,15 +8,17 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Nikita! <img align="right" src="https://komarev.com/ghpvc/?username=happy-cutman&label=Profile%20Views%20&color=blue&style=flat" alt="Cutman" />
 
 
-### I'm a passionate frontend developer
+## I'm a passionate frontend developer
 
 - 🌱 I’m currently learning typescript
 - 👯 I’m looking to collaborate with other frontend developers
 - 🥅 2022 Goals: become a typescript master
 - ⚡ Fun fact: I love boxing and video games
 
-### Languages and Tools:
-<div style="display: inline_block">
+<img alt="Happy cutman stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happy-cutman&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"/>
+
+## Languages and Tools:
+<div style="display: flex">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -24,12 +26,10 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="" heigth="23" width="35" src="https://img.icons8.com/color/48/000000/graphql.png"/>
   <img align="center" alt="" heigth="25" width="40" src="https://img.icons8.com/color/48/000000/git.png"/>
-  
 </div>
 
-<img alt="Happy cutman stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happy-cutman&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"/>
-
-
 ### Connect with me:
-<a href="https://www.linkedin.com/in/nikita-silkin-052505179/"><img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/nikita-silkin-052505179/">
+  <img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
