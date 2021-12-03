@@ -1,6 +1,6 @@
 <h1 align="center"><img width="500px" height="375px" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xw9phvez5z6b6wm7a5z3t1b3uwth7wa7yz64jbpx&rid=giphy.gif&ct=g"/></h1>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> there</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <!--
 **happy-cutman/happy-cutman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
