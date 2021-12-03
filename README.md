@@ -15,7 +15,7 @@
 - 🥅 2022 Goals: become a typescript master
 - ⚡ Fun fact: I love boxing and video games
 
-<img alt="Happy cutman stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happy-cutman&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"/>
+<!-- <img alt="Happy cutman stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happy-cutman&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=python&bg_color=0D1117"/> -->
 
 ## Languages and Tools:
 <div style="display: flex">
