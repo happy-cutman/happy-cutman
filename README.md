@@ -1,22 +1,20 @@
 <!-- <h1 align="center"><img width="500px" height="375px" src="https://media1.giphy.com/media/YQitE4YNQNahy/200w.webp?cid=ecf05e474jf7pqtt4604u95eifxu8zq0pqlqfbv0s1wrw6nb&rid=200w.webp&ct=g"/></h1> -->
 
+<!--   <img width="500px" height="375px" src="https://s10.gifyu.com/images/output-onlinegiftools7913c0421deaa3cb.gif"/> -->
+
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Nikita! <img align="right" src="https://komarev.com/ghpvc/?username=happy-cutman&label=Profile%20Views%20&color=blue&style=flat" alt="Cutman" />
 
 
 ## I'm a passionate frontend developer
+ <ul>
+  <img align="right" width="100px" height="100px" src="https://media3.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.webp?cid=ecf05e472qrk1xg4ipbxqttq27qtj75vwnyxsj0e42fbt7an&rid=giphy.webp&ct=g"/>   
+   <li>🌱 I’m currently learning typescript</li>                           
+   <li>👯 I’m looking to collaborate with other frontend developers</li>
+   <li>🥅 2022 Goals: become a typescript master</li>
+   <li>⚡ Fun fact: I love boxing and video games</li>
+ </ul>
 
-- 🌱 I’m currently learning typescript
-- 👯 I’m looking to collaborate with other frontend developers
-- 🥅 2022 Goals: become a typescript master
-- ⚡ Fun fact: I love boxing and video games
-
-<!-- <p align="left"> -->
-<!--   <img width="500px" height="375px" src="https://s10.gifyu.com/images/output-onlinegiftools7913c0421deaa3cb.gif"/> -->
- 
-  <img width="100px" height="100px" src="https://media3.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.webp?cid=ecf05e472qrk1xg4ipbxqttq27qtj75vwnyxsj0e42fbt7an&rid=giphy.webp&ct=g"/>
-<!-- </p> -->
-
-<!-- <img alt="Happy cutman stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happy-cutman&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=python&bg_color=0D1117"/> -->
+<!-- <img align="right" alt="Happy cutman stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happy-cutman&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=python&bg_color=0D1117"/> -->
 
 ## Languages and Tools:
 <div style="display: flex">
