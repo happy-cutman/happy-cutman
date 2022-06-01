@@ -2,12 +2,12 @@
 
 <!--   <img width="500px" height="375px" src="https://s10.gifyu.com/images/output-onlinegiftools7913c0421deaa3cb.gif"/> -->
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Nikita! <img align="right" src="https://komarev.com/ghpvc/?username=happy-cutman&label=Profile%20Views%20&color=blue&style=flat" alt="Cutman" />
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" heigth='20px'>, I'm Nikita! <img align="right" src="https://komarev.com/ghpvc/?username=happy-cutman&label=Profile%20Views%20&color=blue&style=flat" alt="Cutman" />
 
 
 ## I'm a passionate frontend developer
  <ul>
-  <img align="right" width="20px" height="20px" src="https://media3.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.webp?cid=ecf05e472qrk1xg4ipbxqttq27qtj75vwnyxsj0e42fbt7an&rid=giphy.webp&ct=g"/>   
+  <img align="right" width="100px" height="100px" src="https://media3.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.webp?cid=ecf05e472qrk1xg4ipbxqttq27qtj75vwnyxsj0e42fbt7an&rid=giphy.webp&ct=g"/>   
    <li>🌱 I’m currently learning typescript</li>                           
    <li>👯 I’m looking to collaborate with other frontend developers</li>
    <li>🥅 2022 Goals: become a typescript master</li>
