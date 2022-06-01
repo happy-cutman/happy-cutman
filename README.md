@@ -2,7 +2,7 @@
 
 <!--   <img width="500px" height="375px" src="https://s10.gifyu.com/images/output-onlinegiftools7913c0421deaa3cb.gif"/> -->
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" heigth='20px'>, I'm Nikita! <img align="right" src="https://komarev.com/ghpvc/?username=happy-cutman&label=Profile%20Views%20&color=blue&style=flat" alt="Cutman" />
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height='20px'>, I'm Nikita! <img align="right" src="https://komarev.com/ghpvc/?username=happy-cutman&label=Profile%20Views%20&color=blue&style=flat" alt="Cutman" />
 
 
 ## I'm a passionate frontend developer
