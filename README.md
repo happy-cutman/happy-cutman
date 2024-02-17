@@ -10,7 +10,7 @@
   <img align="right" width="100px" height="100px" src="https://media3.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.webp?cid=ecf05e472qrk1xg4ipbxqttq27qtj75vwnyxsj0e42fbt7an&rid=giphy.webp&ct=g"/>   
    <li>🌱 I’m currently learning typescript</li>                           
    <li>👯 I’m looking to collaborate with other frontend developers</li>
-   <li>🥅 2023 Goals: become a typescript master</li>
+   <li>🥅 2024 Goals: become a typescript master</li>
    <li>⚡ Fun fact: I love boxing and video games</li>
  </ul>
 
